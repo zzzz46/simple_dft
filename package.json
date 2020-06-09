@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dft.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node dft.js"
   },
   "author": "Hiroshi Suda",
   "license": "ISC",
