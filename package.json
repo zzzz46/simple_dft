@@ -1,0 +1,22 @@
+{
+  "name": "simple_dft",
+  "version": "1.0.0",
+  "main": "dft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroshi Suda",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudahiroshi/simple_dft.git"
+  },
+  "keywords": [
+    "DFT"
+  ],
+  "bugs": {
+    "url": "https://github.com/sudahiroshi/simple_dft/issues"
+  },
+  "homepage": "https://github.com/sudahiroshi/simple_dft#readme",
+  "description": ""
+}
