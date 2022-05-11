@@ -2,7 +2,7 @@ const P = 10;  // サンプル数
 
 // 原関数 3sin(x) + 7cos(3x) 定義
 function func_y(x) {
-  return 3.0 * Math.sin(x) + 7.0 * Math.cos(3.0 * x);
+  return 3.0 * Math.sin(5x) + 7.0 * Math.cos(3.0 * x);
 }
 
 let f = new Array(P);
